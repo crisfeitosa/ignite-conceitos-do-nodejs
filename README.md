@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-ignite-template-conceitos-do-nodejs
+ignite-conceitos-do-nodejs
 
 ## 📝 Licença
 
